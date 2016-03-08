@@ -1,0 +1,27 @@
+body div{
+	border: 1px solid black;
+
+
+}
+
+.row div {
+	margin: 0px;
+}
+
+.profile-img img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.header-name{
+	text-align: center;
+	color: #0266B3;
+}
+
+.header-pg-info{
+	font-size: 20px;
+	color: #898B9C;
+	vertical-align: middle;
+	margin: 0px;
+}
