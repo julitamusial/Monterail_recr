@@ -1,0 +1,64 @@
+body{
+background-color: rgb(255,225,173);	
+}
+
+body div{
+	border: 1px solid black;
+
+}
+
+/***********************navbar**********************/
+
+.navbar-row div{
+	height: 50px;
+	background-color: #FFFFFF;
+}
+
+
+
+
+.nav-questions div{
+	display: inline-block;
+}
+
+.nav-questions p{
+	font-size: 2em;
+}
+
+.nav-img-plus img{
+	height: 95%;
+}
+.nav-img-left-arrow img{
+	height: 95%;
+}
+
+.nav-radio-button div{
+	display: inline-block;
+}
+.nav-radio-button div span{
+	margin-left: -15px;
+}
+.nav-sort-by{
+	float: right;
+}
+.nav-sort-by div{
+	display: inline-block;
+
+}
+
+.nav-search-bar{
+	padding-top: 7px;
+}
+
+/******************container************************/
+.container-fluid, .container-inside div{
+	margin:0px;
+	padding:0px;
+	
+}
+
+
+.container-inside { 
+	background-color: #FBFBFB;
+	margin: 0px 50px 80px 50px;
+}
