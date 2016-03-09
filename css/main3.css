@@ -52,10 +52,33 @@ body div{
 	text-align: center;
 }
 
-.content-text{
+.content-text h1{
 	text-align: center;
+	vertical-align: center;
+	font-size: 50px;
 }
 
+.content-middle h4{
+	font-size: 20px;
+	color: #898B9C;
+	vertical-align: center;
+
+}
+
+.content-rect div, img{
+	display: inline;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.content-pics {
+	padding-left: 21%;
+}
+
+.content-pics h2{
+	font-size: 25px;
+	color: #0266B3;
+}
 /******Footer********/
 footer{
 	background-image: url(../icons/footer-bg.png);
